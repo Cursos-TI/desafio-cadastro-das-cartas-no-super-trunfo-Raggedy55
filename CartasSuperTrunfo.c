@@ -1,5 +1,22 @@
 #include <stdio.h>
 
+int main(){                                      
+char "Estado = Minas Gerais";
+char "Código da carta[5] = M01";
+char "Nome da cidade[15] = Belo Horizonte";
+int  "Populaçao = 2.316,000";
+float"Área em km² = 331,4";
+float"PIB = 105.829.675,053";
+int  "Numero de pontos turísticos = 20"
+
+
+
+
+
+
+
+
+
 // Desafio Super Trunfo - Países
 // Tema 1 - Cadastro das Cartas
 // Este código inicial serve como base para o desenvolvimento do sistema de cadastro de cartas de cidades.
